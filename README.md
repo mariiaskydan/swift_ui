@@ -1,2 +1,3 @@
-# swift_ui
-Swift ui pet project
+# SwiftUI Data Flow
+
+Demonstrating multiple ways of passing data around a SwiftUI app.
